@@ -1,2 +1,2 @@
 # SpringBoot-Kafka-App
-This project contains API's where Producer publish (send) message and Consumer subscribe to the topic to subscribe (read) message.
+This project contains APIs where Producer publish (send) message and Consumer subscribe to the topic to subscribe (read) message.
