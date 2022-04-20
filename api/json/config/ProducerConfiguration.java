@@ -1,3 +1,4 @@
+
 package com.project.kafka.api.json.config;
 
 import com.project.kafka.api.json.common.Weather;
@@ -40,3 +41,4 @@ public class ProducerConfiguration {
         return new KafkaTemplate<String, Weather>(producerFactory());
     }
 }
+

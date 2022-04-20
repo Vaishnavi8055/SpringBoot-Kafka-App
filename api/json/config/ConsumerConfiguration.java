@@ -1,3 +1,4 @@
+
 package com.project.kafka.api.json.config;
 
 import com.project.kafka.api.json.common.Weather;
@@ -43,3 +44,4 @@ public class ConsumerConfiguration {
     }
 
 }
+

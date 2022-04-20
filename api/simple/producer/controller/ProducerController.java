@@ -1,4 +1,5 @@
-package com.project.kafka.api.producer.controller;
+
+package com.project.kafka.api.simple.producer.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
@@ -31,3 +32,4 @@ public class ProducerController {
     }
 
 }
+

@@ -1,3 +1,4 @@
+
 package com.project.kafka.api.json.request;
 
 public class WeatherRequest {
@@ -31,3 +32,4 @@ public class WeatherRequest {
     }
 
 }
+

@@ -1,3 +1,4 @@
+
 package com.project.kafka.api.json.service;
 
 import com.project.kafka.api.json.common.Weather;
@@ -31,3 +32,4 @@ public class WeatherService {
     }
 
 }
+

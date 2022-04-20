@@ -1,3 +1,4 @@
+
 package com.project.kafka.api.json.common;
 
 public class Weather {
@@ -39,3 +40,4 @@ public class Weather {
                 '}';
     }
 }
+
